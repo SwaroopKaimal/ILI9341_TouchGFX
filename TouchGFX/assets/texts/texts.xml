@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.22.1">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_TMJZ" Alignment="Left" TypographyId="Typography_02">
+        <Translation Language="GB">Hold for 5 seconds</Translation>
+      </Text>
+      <Text Id="__SingleUse_V6W1" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Hold OK to clear&#10;all Logs</Translation>
+      </Text>
+      <Text Id="__SingleUse_4JDX" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Press OK to&#10;switch theme</Translation>
+      </Text>
+      <Text Id="__SingleUse_6FA5" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Measure</Translation>
+      </Text>
+      <Text Id="__SingleUse_8U2J" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_DL3E" Alignment="Center" TypographyId="Typography_00">
+        <Translation Language="GB">Date 5</Translation>
+      </Text>
+      <Text Id="__SingleUse_8N6B" Alignment="Center" TypographyId="Typography_00">
+        <Translation Language="GB">Date 4</Translation>
+      </Text>
+      <Text Id="__SingleUse_MODU" Alignment="Center" TypographyId="Typography_00">
+        <Translation Language="GB">Date 3</Translation>
+      </Text>
+      <Text Id="__SingleUse_7O2V" Alignment="Center" TypographyId="Typography_00">
+        <Translation Language="GB">Date 2</Translation>
+      </Text>
+      <Text Id="__SingleUse_NKQS" Alignment="Center" TypographyId="Typography_00">
+        <Translation Language="GB">Date 1</Translation>
+      </Text>
+      <Text Id="__SingleUse_F8PV" Alignment="Center" TypographyId="Typography_01">
+        <Translation Language="GB">Designed by:&#10;Swaroop Kaimal</Translation>
+      </Text>
+      <Text Id="__SingleUse_T0XD" Alignment="Center" TypographyId="Typography_00">
+        <Translation Language="GB">About</Translation>
+      </Text>
+      <Text Id="__SingleUse_UN4G" Alignment="Center" TypographyId="Typography_00">
+        <Translation Language="GB">Clear Logs</Translation>
+      </Text>
+      <Text Id="__SingleUse_Y24L" Alignment="Center" TypographyId="Typography_00">
+        <Translation Language="GB">Visibility</Translation>
+      </Text>
+      <Text Id="__SingleUse_R8RV" Alignment="Center" TypographyId="Typography_00">
+        <Translation Language="GB">Logs</Translation>
+      </Text>
+      <Text Id="__SingleUse_2ZCW" Alignment="Center" TypographyId="Typography_00">
+        <Translation Language="GB">Start </Translation>
+      </Text>
+      <Text Id="__SingleUse_1EL6" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">98</Translation>
+      </Text>
+      <Text Id="__SingleUse_HBFH" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">080</Translation>
+      </Text>
+      <Text Id="__SingleUse_6UY0" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">00</Translation>
+      </Text>
+      <Text Id="__SingleUse_FFHN" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">00</Translation>
+      </Text>
+      <Text Id="__SingleUse_CTSW" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;:&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_YJVC" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">TIME30S</Translation>
+      </Text>
+      <Text Id="__SingleUse_EBAN" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_YASZ" Alignment="Left" TypographyId="Typography_01">
+        <Translation Language="GB">SpO2</Translation>
+      </Text>
+      <Text Id="__SingleUse_W0G2" Alignment="Left" TypographyId="Typography_01">
+        <Translation Language="GB">bpm</Translation>
+      </Text>
+      <Text Id="__SingleUse_G001" Alignment="Center" TypographyId="Typography_00">
+        <Translation Language="GB">&lt;value&gt;%</Translation>
+      </Text>
+      <Text Id="__SingleUse_MJ98" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" Direction="LTR" FallbackCharacter="?" WidgetWildcardCharacters="0123456789 :APM" />
+    <Typography Id="Large" Font="verdana.ttf" Size="53" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Typography_00" Font="verdana.ttf" Size="24" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9" />
+    <Typography Id="Typography_01" Font="verdana.ttf" Size="16" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Typography_02" Font="verdana.ttf" Size="13" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+  </Typographies>
+</TextDatabase>
